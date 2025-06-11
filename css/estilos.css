@@ -125,6 +125,12 @@ span{
     padding: 10px;
     text-decoration: underline black;
 }
+.noticias{
+    background-image: url(../img/assasincreedwallpaper.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 
 /*GUIAS*/
 
