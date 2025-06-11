@@ -141,8 +141,13 @@ span{
 }
 .guias p{
     color: blueviolet;
-    background-color: rgb(0, 0, 0);
-    
+    }
+
+.tutoriales{
+    background-image: url(../img/sonicwallpaper.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 /*PREGUNTAS*/
 .preguntas-item{
