@@ -91,7 +91,7 @@ span{
 
 
 
-    /*GAMES*/
+    /*LANZAMIENTOS*/
 
     .games{
         font-size: 30px;
@@ -104,6 +104,10 @@ span{
         background-color: black;
         color: white;
         font-size: 40px;
+    }
+
+    .lanza{
+        background-image: url(../img/mariobrosswallpaper.webp);
     }
 
     /*NOTICIAS*/
