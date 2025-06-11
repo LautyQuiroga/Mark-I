@@ -1,0 +1,47 @@
+h1{ 
+    background-color: black;
+    color: red;
+    font-size: 50px;
+    padding: 10px;
+    width: 100%;
+    a{    
+        text-decoration: none;
+        background-color: black;
+        color: white
+
+    }
+}
+
+
+header{
+
+    .navbar{
+            background-color: black;
+            font-size: 20px;
+            display: flex;
+            justify-content: space-evenly;
+            padding: 10px;
+            margin: 10px;
+        a{
+            text-decoration: none;
+            background-color: black;
+            color: white
+
+        }
+    }
+
+
+    h2{
+    font-size: 40px;
+    background-color: lightblue;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+    }
+
+    .tercero{
+    color: blueviolet;
+    font-size: 30px;
+    padding: 10px;
+}
+}

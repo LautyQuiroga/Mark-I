@@ -1,0 +1,78 @@
+/*INDEX*/
+
+footer{
+    .despedida-index{    
+        font-size: 30px;
+        text-align: center;
+        background-color: brown;
+    }
+
+    .redes-sociales{
+        text-decoration: none;
+        display: flex;
+        justify-content: space-between;
+
+        h3{    
+            color: rgb(0, 0, 0);
+            font-size: 30px;
+        }
+        .navbar{
+                background-color: black;
+                font-size: 20px;
+                display: flex;
+                justify-content: space-evenly;
+                padding: 10px;
+                margin: 10px;
+            a{    
+                text-decoration: none;
+                background-color: black;
+                color: white;
+                img{    
+                    color: white;
+                    width: 100px;
+                    height: 100px;
+
+                }
+            }
+        }
+    }
+    span{
+        font-size: 20px;
+
+    }
+}
+
+
+
+footer{
+    .redes-sociales{
+        text-decoration: none;
+        display: flex;
+        justify-content: space-between;
+        h3{
+            color: rgb(0, 0, 0);
+            font-size: 30px;
+        }
+        .navbar{
+            background-color: black;
+            font-size: 20px;
+            display: flex;
+            justify-content: space-evenly;
+            padding: 10px;
+            margin: 10px;
+            a{   
+                text-decoration: none;
+                background-color: black;
+                color: white;
+                img{    
+                    color: white;
+                    width: 100px;
+                    height: 100px;
+                }
+            }
+        }
+    }
+    span{    
+        font-size: 20px;
+    }
+}

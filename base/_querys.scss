@@ -1,0 +1,8 @@
+@media (max-width: 559px) {
+.navbar {
+    flex-direction: column;
+}
+.grid-galeria {
+    grid-template-columns: 1fr;
+}
+}
