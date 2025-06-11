@@ -108,8 +108,8 @@ span{
 
     .lanza{
         background-image: url(../img/mariobrosswallpaper.webp);
-        background-repeat: no-repeat;
         background-size: cover;
+        background-repeat: no-repeat;
         background-attachment: fixed;
     }
 
